@@ -1,0 +1,3 @@
+This project implements an Atlassian Crowd directory that will authenticate against the Apache Software Foundation subversion server at http://svn.apache.org/repos/asf
+
+The code is functional, but no releases have been created yet
